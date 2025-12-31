@@ -1,0 +1,7 @@
+
+this is sample file 
+
+
+#adding permission
+
+chmod +x fileone.txt
